@@ -40,10 +40,8 @@ label {
   height: 2px;
   top: 0px;
   left: 50%;
-  transform: translateX(-50%);
   background: #8bc34a;
-  transition: ease 0.6s;
-}
+ }
 
 button {
   display: inline-block;
@@ -55,9 +53,8 @@ button {
   border-radius: 3px;
   cursor: pointer;
   background-color: #374fa3;
-  transition: ease 0.3s;
 }
-
+ 
 #check {
   margin: 30px;
   right: 35px;
